@@ -1,1 +1,1 @@
-hello-world:nanoserver-ltsc2025
+hello-world
